@@ -1,0 +1,5 @@
+D:\Asp.Net\DBS_GAME\DBS_GAME\bin\DBS_GAME.dll
+D:\Asp.Net\DBS_GAME\DBS_GAME\bin\DBS_GAME.pdb
+D:\Asp.Net\DBS_GAME\DBS_GAME\obj\Debug\DBS_GAME.csprojResolveAssemblyReference.cache
+D:\Asp.Net\DBS_GAME\DBS_GAME\obj\Debug\DBS_GAME.dll
+D:\Asp.Net\DBS_GAME\DBS_GAME\obj\Debug\DBS_GAME.pdb
